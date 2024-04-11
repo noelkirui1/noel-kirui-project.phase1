@@ -1,0 +1,243 @@
+{
+  "vehicles": [
+  {
+      "id": 1001,
+      "make": "Mercedes-benz",
+      "model": "G-wagon",
+      "year": 2015,
+      "color": "Black",
+      "price": "8,000,000ksh."
+  },
+  {
+      "id": 1002,
+      "make": "Toyota",
+      "model": "Probox",
+      "year": 2010,
+      "color": "White",
+      "price": "1,000,000ksh."
+  },
+  {
+      "id": 1003,
+      "make": "Porshe",
+      "model": "Cayenne",
+      "year": 2017,
+      "color": "Grey",
+      "price": "9,500,000ksh."
+  },
+  {
+      "id": 1004,
+      "make": "Toyota",
+      "model": "LandcuiserPrado",
+      "year": 2017,
+      "color": "Black",
+      "price": "7,000,000ksh."
+  },
+  {
+      "id": 1005,
+      "make": "BMW",
+      "model": "X5",
+      "year": 2021,
+      "color": "White",
+      "price": "5,000,000ksh."
+  },
+  {
+      "id": 1006,
+      "make": "Land Rover",
+      "model": "Range Rover",
+      "year": 2020,
+      "color": "Grey",
+      "price": "41,000,000ksh."
+  },
+  {
+      "id": 1007,
+      "make": "Audi",
+      "model": "A4",
+      "year": 2016,
+      "color": "Black",
+      "price": "5,000,000ksh."
+  },
+  {
+      "id": 1008,
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "year": 2021,
+      "color": "Silver",
+      "price": "3,500,000ksh."
+  },
+  {
+      "id": 1009,
+      "make": "Nissan",
+      "model": "GTR",
+      "year": 2019,
+      "color": "Blue",
+      "price": "17,000,000ksh."
+  },
+  {
+      "id": 1010,
+      "make": "Honda",
+      "model": "Vezel",
+      "year": 2016,
+      "color": "White",
+      "price": "2,600,000ksh."
+  },
+  {
+      "id": 1011,
+      "make": "Toyota",
+      "model": "Corolla Fielder",
+      "year": 2017,
+      "color": "Red",
+      "price": "2,100,000ksh."
+  },
+  {
+      "id": 1012,
+      "make": "Mazda",
+      "model": "CX-5",
+      "year": 2016,
+      "color": "Silver",
+      "price": "2,950,000ksh."
+  },
+  {
+      "id": 1013,
+      "make": "Subaru",
+      "model": "Forester2.0XT",
+      "year": 2016,
+      "color": "Black",
+      "price": "4,120,00ksh."
+  },
+  {
+      "id": 1014,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "year": 2018,
+      "color": "Pearl",
+      "price": "6,558,000ksh."
+  },
+  {
+      "id": 1015,
+      "make": "Suzuki",
+      "model": "Hustler",
+      "year": 2016,
+      "color": "Blue",
+      "price": "855,000ksh."
+  },
+  {
+      "id": 1016,
+      "make": "Nissan",
+      "model": "Note",
+      "year": 2015,
+      "color": "Grey",
+      "price": "626,000ksh."
+  },
+  {
+      "id": 1017,
+      "make": "Isuzu",
+      "model": "Executive Bus",
+      "year": 2012,
+      "color": "Yellow",
+      "price": "2,853,000ksh."
+  },
+  {
+      "id": 1018,
+      "make": "Mecedes-benz",
+      "model": "C180",
+      "year": 1997,
+      "color": "Black",
+      "price": "1,000,000ksh."
+  },
+  {
+      "id": 1019,
+      "make": "Toyota",
+      "model": "Hilux",
+      "year": 2016,
+      "color": "White",
+      "price": "4,000,000ksh."
+  },
+  {
+      "id": 1020,
+      "make": "Isuzu",
+      "model": "D-MAX",
+      "year": 2010,
+      "color": "Red",
+      "price": "2,040,000ksh."
+  },
+  {
+      "id": 1021,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "year": 2017,
+      "color": "Blue",
+      "price": "3,190,000ksh."
+  },
+  {
+      "id": 1022,
+      "make": "Mitsubishi",
+      "model": "Canter",
+      "year": 2015,
+      "color": "White",
+      "price": "1,120,000ksh."
+  },
+  {
+      "id": 1023,
+      "make": "Nissan",
+      "model": "Caravan",
+      "year": 2017,
+      "color": "Black",
+      "price": "3,000,000ksh."
+  },
+  {
+      "id": 1024,
+      "make": "Land Rover",
+      "model": "Range Rover",
+      "year": 2020,
+      "color": "Silver",
+      "price": "41,000,000ksh."
+  },
+  {
+      "id": 1025,
+      "make": "Toyota",
+      "model": "Regius",
+      "year": 2016,
+      "color": "Red",
+      "price": "3,500,000ksh."
+  },
+  {
+      "id": 1026,
+      "make": "Mitsubishi",
+      "model": "Fuso Rosa",
+      "year": 2016,
+      "color": "Blue",
+      "price": "5,300,000ksh."
+  },
+  {
+      "id": 1027,
+      "make": "Honda",
+      "model": "CB",
+      "year": 2016,
+      "color": "Yellow",
+      "price": "450,000ksh."
+  },
+  {
+      "id": 1028,
+      "make": "Rolls-Royce",
+      "model": "Phantom",
+      "year": 2021,
+      "color": "White",
+      "price": "110,500,000ksh."
+  },
+  {
+      "id": 1029,
+      "make": "Maserati",
+      "model": "Ghibli",
+      "year": 2020,
+      "color": "Black",
+      "price": "1,700,000ksh."
+  },
+  {
+      "id": 1030,
+      "make": "Bugatti",
+      "model": "Chiron",
+      "year": 2022,
+      "color": "Blue",
+      "price": "300,000,000ksh."
+  } ]
+  }
