@@ -10,19 +10,18 @@
 /* Style the table */
 table {
     width: 100%;
-    border-collapse: collapse;
   }
   
   /* Style table header */
   th {
     background-color: #d68e8e;
     text-align: left;
-    padding: 8px;
+    padding: 16px;
   }
   
   /* Style table data cells */
   td {
-    padding: 8px;
+    padding: 16px;
     border-bottom: 1px solid #ddd;
   }
   
@@ -50,22 +49,6 @@ table {
     background-color: #45a049;
   }
   
-  /* Style Comment button */
-  .comment-button {
-    background-color: #008CBA;
-    border: none;
-    color: white;
-    padding: 8px 16px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 14px;
-    margin: 4px 2px;
-    cursor: pointer;
-    border-radius: 4px;
-  }
+ 
   
-  .comment-button:hover {
-    background-color: #0073e6;
-  }
   
